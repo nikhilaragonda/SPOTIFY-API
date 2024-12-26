@@ -1,11 +1,20 @@
 {
   "songs": [
     {
+      "id":1,
       "title":"O Meri Laila",
       "artist":"Atif Aslam",
       "album":"Lilla Majunu",
       "audiourl":"https://github.com/gouthams112/musics/raw/refs/heads/main/320kbps-Laila%20Majnu%202018%20-%20O%20Meri%20Laila%20Radio%20Version.mp3",
       "coverimage":"https://images1.hungama.com/tr:n-a_11_xs/c/1/068/1ee/38666199/38666199_800x800.jpg?version=19_31"
+    },
+    {
+      "id":2,
+      "title":"Dil Diyan Gallan",
+      "artist":"Atif Aslam",
+      "album":"Tiger Zinda Hai",
+      "audiourl":"https://github.com/gouthams112/musics/raw/refs/heads/main/320kbps-TZH%202017%20-%20Dil%20Diyan%20Gallan.mp3",
+      "coverimage":"https://th.bing.com/th/id/R.40ad9fb8a20a79310a03612b630dd850?rik=9NUYmjc%2b201suQ&riu=http%3a%2f%2fwww.radioandmusic.com%2fsites%2fwww.radioandmusic.com%2ffiles%2fimages%2fentertainment%2f2018%2f01%2f15%2fDil-Diyan.jpg&ehk=Uv%2f8EnxKkkndVKOwAVcoSSc0VEMgNQ4lG54FC1AmyVY%3d&risl=&pid=ImgRaw&r=0"
     }
   ]
 }
