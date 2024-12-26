@@ -1,11 +1,85 @@
 {
   "songs":[
     {
-      "title":"O Meri Laila",
-      "artist":"Atif Aslam",
-      "album":"Lilla Majunu",
-      "audiourl":"https://github.com/gouthams112/musics/raw/refs/heads/main/320kbps-Laila%20Majnu%202018%20-%20O%20Meri%20Laila%20Radio%20Version.mp3",
-      "coverimage":"https://images1.hungama.com/tr:n-a_11_xs/c/1/068/1ee/38666199/38666199_800x800.jpg?version=19_31"
+      "id":1,
+      "title":"Aasan Nahin Yahan",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Aasan%20Nahin%20Yahan%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YtfM7C1Jv11RbNX9ucmhL7gfhNOlTNWmmA&s"
+    },
+    {
+      "id":2,
+      "title":"Chahun Main Ya Naa",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Chahun%20Main%20Ya%20Naa%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEttFOqQYOCxS3T0r92g2q9sn-HsJFfSubqg&s"
+    },
+    {
+      "id":3,
+      "title":"Hum Mar Jayenge",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Hum%20Mar%20Jayenge%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/o5H2m1Gn5V0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByKoMahRKDJPzFHwKfi6O6nD3iqQ"
+    },
+    {
+      "id":4,
+      "title":"Jo Tum Mere Ho",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Jo%20Tum%20Mere%20Ho%20-%20Anuv%20Jain%20128%20Kbps.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD03w2xpOo2sRQQCzk1UpqjPMmLl_6wRTNZw&s"
+    },
+    {
+      "id":5,
+      "title":"Milne Hai Mujhse Aayi",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Milne%20Hai%20Mujhse%20Aayi%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUcsVSPt11G2RQIQzn8zw8XIl1OqepTA-TQ&s"
+    },
+    {
+      "id":6,
+      "title":"Piya Aaye Na",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Piya%20Aaye%20Na%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/2bMEe0UYa8E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLApxLwVqgzTr4ybnXQajuk1A1XWKQ"
+    },
+    {
+      "id":7,
+      "title":"Sunn Raha Hai (Male)",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Sunn%20Raha%20Hai%20(Male)%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfggY7Bw4z0SPojOtimUWnyNEVimqLfSPioQ&s"
+    },
+    {
+      "id":8,
+      "title":"Tum Hi Ho",
+      "artist":"Arjit singh",
+      "album":"Aashiqui 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/NUo8CKI34o4/maxresdefault.jpg"
+    },
+    {
+      "id":9,
+      "title":"Arjan Vailly",
+      "artist":"Bhupinder Babbal",
+      "album":"Animal",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Arjan%20Vailly%20Animal%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/0hYehuznQac/maxresdefault.jpg"
+    },
+    {
+      "id":10,
+      "title":"Bujji Thall",
+      "artist":"Devi Sri Prasad",
+      "album":"Thandel",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Bujji%20Thalli.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMg081W087WK14ROUKO9mJVWZTpdaDUM76A&s"
     }
   ]
+  
 }
