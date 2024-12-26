@@ -159,7 +159,136 @@
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Papa%20Meri%20Jaan%20Animal%20128%20Kbps.mp3",
       "coverimage":"https://i.ytimg.com/vi/zTmQeQSwwbk/maxresdefault.jpg"
+    },
+    {
+      "id":21,
+      "title":"Pehle Bhi Main",
+      "artist":"Vishal Mishra, Raj Shekhar",
+      "album":"Animal",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Pehle%20Bhi%20Main%20Animal%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/Mv8yFE4-DA8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-nDW4Fgvr7gLqiD6Jyfrqwp0fQw"
+    },
+    {
+      "id":22,
+      "title":"Raa Macha Macha",
+      "artist":"AsThaman S, Anantha Sriram, Nakash Azizlam",
+      "album":"Game Changer",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Raa%20Macha%20Macha.mp3",
+      "coverimage":"htthttps://i.ytimg.com/vi/a4HchiJJY6M/maxresdefault.jpgps"
+    },
+    {
+      "id":23,
+      "title":"Saari Duniya Jalaa Denge",
+      "artist":" B Praak, Jaani",
+      "album":"Animal",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Saari%20Duniya%20Jalaa%20Denge%20Animal%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/tABlzTH8G9o/mqdefault.jpg"
+    },
+    {
+      "id":24,
+      "title":"Meri",
+      "artist":"Aslam",
+      "album":"Majunu",
+      "audiourl":"https",
+      "coverimage":"https"
+    },
+    {
+      "id":25,
+      "title":"Satranga",
+      "artist":"Arijit Singh",
+      "album":"Animal",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Satranga%20Animal%20128%20Kbps.mp3",
+      "coverimage":"https://i.ytimg.com/vi/w_eEnbApH0A/maxresdefault.jpg"
+    },
+    {
+      "id":26,
+      "title":"Srimathi Garu",
+      "artist":"Shweta Mohan, G. V. Prakash Kumar, Vishal Mishra",
+      "album":"Lucky Baskhar",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Srimathi%20Garu.mp3",
+      "coverimage":"https://images.ottplay.com/images/srimathi-garu-from-lucky-bhasker-1718778825.jpg"
+    },
+    {
+      "id":27,
+      "title":"Hey Rangule",
+      "artist":"Ramya Behara, Ramajogayya Sastry, G. V. Prakash Kumar",
+      "album":"Amaran",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Hey%20Rangule.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmCGqWoqzokgGB7zx40h17lqJZrclT6RsmA&s"
+    },
+    {
+      "id":28,
+      "title":"Pushpa Pushpaa",
+      "artist":"Mika Singh and Nakash Aziz",
+      "album":"Pushpa 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Pushpa%20Pushpaa.mp3",
+      "coverimage":"https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1o0Rm3.img?w=768&h=432&m=6&x=624&y=102&s=44&d=44"
+    },
+    {
+      "id":29,
+      "title":"Sooseki",
+      "artist":"Shreya Ghoshal",
+      "album":"Pushpa 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2002%20-%20Sooseki.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Eq542Qn1i-1iwvEAFkMQ7qb8i3Yp_iGVWg&s"
+    },
+    {
+      "id":30,
+      "title":"Srivalli",
+      "artist":" Sid Sriram",
+      "album":"Pushpa: The Rise",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2002%20-%20Srivalli.mp3",
+      "coverimage":"https://i.ytimg.com/vi/5IEbR79kBPY/maxresdefault.jpg"
+    },
+    {
+      "id":31,
+      "title":"Saami Saami",
+      "artist":" Mounika Yadav",
+      "album":"Pushpa: The Rise",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2003%20-%20Saami%20Saami.mp3",
+      "coverimage":"https://stat4.bollywoodhungama.in/wp-content/uploads/2021/12/Pushpa-Saami-Saami-Lyrical-Hindi-Allu-Arjun-Rashmika-Mandanna-Sunidhi-C-DSP-Sukumar.jpg"
+    },
+    {
+      "id":32,
+      "title":" Eyy Bidda Idhi Naa Adaa",
+      "artist":"Nakash Aziz",
+      "album":"Pushpa: The Rise",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Eyy%20Bidda%20Idhi%20Naa%20Adaa.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljkCtczmCZ8rttdSx7AYhAEQQx41o7Ck2hw&s"
+    },
+    {
+      "id":33,
+      "title":"Peelings",
+      "artist":"Laxmi Dasa, Shankarr Babu Kandukoori",
+      "album":"Pushpa 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Peelings.mp3",
+      "coverimage":"https://i.ytimg.com/vi/fITELEU5ukg/maxresdefault.jpg"
+    },
+    {
+      "id":34,
+      "title":"Vendiminnu Neevanta",
+      "artist":"Krishna Tejasvi, Sireesha Bhagavatula, Ramajogayya Sastry, G. V. Prakash Kumar",
+      "album":"Amaran",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Vendiminnu%20Neevanta.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6A75PkqKusQt1iNsiM1aOdeUDadLDgXshlQ&s"
+    },
+    {
+      "id":35,
+      "title":"Gango Renuka Thalli",
+      "artist":"Mahalingam",
+      "album":"Pushpa 2",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2005%20-%20Gango%20Renuka%20Thalli.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKzKBb3WsySPWny-fXlNWfFy4WmwDoabQPg&s"
+    },
+    {
+      "id":36,
+      "title":"Oo Antava..Oo Oo Antava",
+      "artist":"Indravathi Chauhan",
+      "album":"Pushpa: The Rise",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2005%20-%20Oo%20Antava..Oo%20Oo%20Antava.mp3",
+      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KJaRzfx_7Nc5Eak2xss2bAy9_xc6bAhrKA&s"
     }
+
   ]
 
 }
