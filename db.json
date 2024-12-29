@@ -5,9 +5,8 @@
       "title":"Aasan Nahin Yahan",
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
-      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Aasan%20Nahin%20Yahan%20-%20Aashiqui%202%20128%20Kbps.mp3"
-      ,
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YtfM7C1Jv11RbNX9ucmhL7gfhNOlTNWmmA&s"
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Aasan%20Nahin%20Yahan%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Aasan%20Nahin%20Yahan.jpg"
     },
     {
       "id":2,
@@ -15,7 +14,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Chahun%20Main%20Ya%20Naa%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEttFOqQYOCxS3T0r92g2q9sn-HsJFfSubqg&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Chahun%20Main%20Ya%20Naa.jpeg"
     },
     {
       "id":3,
@@ -23,7 +22,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Hum%20Mar%20Jayenge%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/o5H2m1Gn5V0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByKoMahRKDJPzFHwKfi6O6nD3iqQ"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Hum%20Mar%20Jayenge.png"
     },
     {
       "id":4,
@@ -31,7 +30,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Jo%20Tum%20Mere%20Ho%20-%20Anuv%20Jain%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD03w2xpOo2sRQQCzk1UpqjPMmLl_6wRTNZw&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Jo%20Tum%20Mere%20Ho.jpg"
     },
     {
       "id":5,
@@ -39,7 +38,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Milne%20Hai%20Mujhse%20Aayi%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUcsVSPt11G2RQIQzn8zw8XIl1OqepTA-TQ&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Milne%20Hai%20Mujhse%20Aayi.jpg"
     },
     {
       "id":6,
@@ -47,7 +46,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Piya%20Aaye%20Na%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/2bMEe0UYa8E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLApxLwVqgzTr4ybnXQajuk1A1XWKQ"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Piya%20Aaye%20Na.jpg"
     },
     {
       "id":7,
@@ -55,7 +54,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Sunn%20Raha%20Hai%20(Male)%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfggY7Bw4z0SPojOtimUWnyNEVimqLfSPioQ&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Sunn%20Raha%20Hai%20(Male).jpg"
     },
     {
       "id":8,
@@ -63,7 +62,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/128-Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/NUo8CKI34o4/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Tum%20Hi%20Ho.jpg"
     },
     {
       "id":9,
@@ -71,15 +70,15 @@
       "artist":"Bhupinder Babbal",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Arjan%20Vailly%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/0hYehuznQac/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Arjan%20Vailly.jpg"
     },
     {
       "id":10,
-      "title":"Bujji Thall",
+      "title":"Bujji Thalli",
       "artist":"Devi Sri Prasad",
       "album":"Thandel",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Bujji%20Thalli.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMg081W087WK14ROUKO9mJVWZTpdaDUM76A&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Bujji%20Thalli.jpg"
     },
     {
       "id":11,
@@ -87,7 +86,7 @@
       "artist":"Thaman S",
       "album":"Game Changer",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Dhop.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_e34daCJImn6D0kyBxMstmZ0OgUxQzncpw&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Dhop.jpg"
     },
     {
       "id":12,
@@ -95,7 +94,7 @@
       "artist":"Ramana Gogula, Madhupriya",
       "album":"Sankranthiki Vasthunam",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Godari%20Gattu.mp3",
-      "coverimage":"https://i.ytimg.com/vi/ZGrdjGQZ9ug/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Godari%20Gattu.jpg"
     },
     {
       "id":13,
@@ -103,7 +102,7 @@
       "artist":"Ashim Kemson",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Haiwaan%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOGUKUpWW2llSPVEzZ_ifid_TTvb-yLIu7A&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Haiwaan.jpg"
     },
     {
       "id":14,
@@ -111,7 +110,7 @@
       "artist":"Raghav Chaitanya, Pritam Chakraborty",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Hua%20Main%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvhIJUOqrjGQ3QZl2-NZzNhOeoVnhgw4Qow&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Hua%20Main.jpg"
     },
     {
       "id":15,
@@ -119,7 +118,7 @@
       "artist":"Shreya Ghoshal, Manan Bhardwaj",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Kashmir%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SHkR0rBzdMHcfI2Fv1ICLeL9CRW9xOaULQ&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Kashmir.jpg"
     },
     {
       "id":16,
@@ -127,7 +126,7 @@
       "artist":"Usha Uthup",
       "album":"Lucky Baskhar",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Lucky%20Baskhar.mp3",
-      "coverimage":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202410/lucky-baskhar-review-30565419-16x9_0.jpg?VersionId=9MwUmH8_PXY7OlLoATpqbxCgTw.5nZ3F"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Lucky%20Baskhar.jpg"
     },
     {
       "id":17,
@@ -135,7 +134,7 @@
       "artist":"Bheems Ceciroleo, Pranavi Acharya",
       "album":"Sankranthiki Vasthunam",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Meenu.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5vM84IpPKpGPM9rq22VvW6JidvTKrcahBA&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Meenu.jpg"
     },
     {
       "id":18,
@@ -143,7 +142,7 @@
       "artist":"Arjit singh",
       "album":"Aashiqui 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Meri%20Aashiqui%20Aashiqui%202%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/YipYZY3mmO0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDni3aB4x6ZCOkHoG-vvZy-jmrp6Q"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Meri%20Aashiqui.jpeg"
     },
     {
       "id":19,
@@ -151,7 +150,7 @@
       "artist":" Krishna Tejasvi, G. V. Prakash Kumar",
       "album":"Lucky Baskhar",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Nijamaa%20Kalaa.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20p0IpDXuC73T0CMITq2UCxOpYfddN--3lg&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Nijamaa%20Kalaa.jpg"
     },
     {
       "id":20,
@@ -159,7 +158,7 @@
       "artist":"Sonu Nigam",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Papa%20Meri%20Jaan%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/zTmQeQSwwbk/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Papa%20Meri%20Jaan.jpg"
     },
     {
       "id":21,
@@ -167,7 +166,7 @@
       "artist":"Vishal Mishra, Raj Shekhar",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Pehle%20Bhi%20Main%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/Mv8yFE4-DA8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-nDW4Fgvr7gLqiD6Jyfrqwp0fQw"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Pehle%20Bhi%20Main.jpg"
     },
     {
       "id":22,
@@ -175,7 +174,7 @@
       "artist":"AsThaman S, Anantha Sriram, Nakash Azizlam",
       "album":"Game Changer",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Raa%20Macha%20Macha.mp3",
-      "coverimage":"htthttps://i.ytimg.com/vi/a4HchiJJY6M/maxresdefault.jpgps"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Raa%20Macha%20Macha.jpg"
     },
     {
       "id":23,
@@ -183,15 +182,15 @@
       "artist":" B Praak, Jaani",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Saari%20Duniya%20Jalaa%20Denge%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/tABlzTH8G9o/mqdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Saari%20Duniya%20Jalaa%20Denge.jpg"
     },
     {
       "id":24,
-      "title":"Meri",
-      "artist":"Aslam",
-      "album":"Majunu",
-      "audiourl":"https",
-      "coverimage":"https"
+      "title":"kalashalalo",
+      "artist":"Mickey J Meyer",
+      "album":"kotha bangaru lokam",
+      "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/01%20-%20Kalasalalo%20-%20SenSongsMp3.co.mp3",
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/kalasalalo%20kotha%20bangaru%20lokam.jpg"
     },
     {
       "id":25,
@@ -199,7 +198,7 @@
       "artist":"Arijit Singh",
       "album":"Animal",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Satranga%20Animal%20128%20Kbps.mp3",
-      "coverimage":"https://i.ytimg.com/vi/w_eEnbApH0A/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Satranga.jpg"
     },
     {
       "id":26,
@@ -207,7 +206,7 @@
       "artist":"Shweta Mohan, G. V. Prakash Kumar, Vishal Mishra",
       "album":"Lucky Baskhar",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/Srimathi%20Garu.mp3",
-      "coverimage":"https://images.ottplay.com/images/srimathi-garu-from-lucky-bhasker-1718778825.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Srimathi%20Garu.jpg"
     },
     {
       "id":27,
@@ -215,7 +214,7 @@
       "artist":"Ramya Behara, Ramajogayya Sastry, G. V. Prakash Kumar",
       "album":"Amaran",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Hey%20Rangule.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmCGqWoqzokgGB7zx40h17lqJZrclT6RsmA&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Hey%20Rangule.jpg"
     },
     {
       "id":28,
@@ -223,7 +222,7 @@
       "artist":"Mika Singh and Nakash Aziz",
       "album":"Pushpa 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Pushpa%20Pushpaa.mp3",
-      "coverimage":"https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1o0Rm3.img?w=768&h=432&m=6&x=624&y=102&s=44&d=44"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Pushpa%20Pushpaa.jpg"
     },
     {
       "id":29,
@@ -231,7 +230,7 @@
       "artist":"Shreya Ghoshal",
       "album":"Pushpa 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2002%20-%20Sooseki.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Eq542Qn1i-1iwvEAFkMQ7qb8i3Yp_iGVWg&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Sooseki.jpg"
     },
     {
       "id":30,
@@ -239,7 +238,7 @@
       "artist":" Sid Sriram",
       "album":"Pushpa: The Rise",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2002%20-%20Srivalli.mp3",
-      "coverimage":"https://i.ytimg.com/vi/5IEbR79kBPY/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Srivalli.jpg"
     },
     {
       "id":31,
@@ -247,15 +246,15 @@
       "artist":" Mounika Yadav",
       "album":"Pushpa: The Rise",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2003%20-%20Saami%20Saami.mp3",
-      "coverimage":"https://stat4.bollywoodhungama.in/wp-content/uploads/2021/12/Pushpa-Saami-Saami-Lyrical-Hindi-Allu-Arjun-Rashmika-Mandanna-Sunidhi-C-DSP-Sukumar.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Saami%20Saami.avif"
     },
     {
       "id":32,
-      "title":" Eyy Bidda Idhi Naa Adaa",
+      "title":"Eyy Bidda Idhi Naa Adaa",
       "artist":"Nakash Aziz",
       "album":"Pushpa: The Rise",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Eyy%20Bidda%20Idhi%20Naa%20Adaa.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljkCtczmCZ8rttdSx7AYhAEQQx41o7Ck2hw&s"
+      "coverimage":"https://static.toiimg.com/thumb/msid-87800465,width-1280,resizemode-4/87800465.jpg"
     },
     {
       "id":33,
@@ -263,7 +262,7 @@
       "artist":"Laxmi Dasa, Shankarr Babu Kandukoori",
       "album":"Pushpa 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Peelings.mp3",
-      "coverimage":"https://i.ytimg.com/vi/fITELEU5ukg/maxresdefault.jpg"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Peelings.jpg"
     },
     {
       "id":34,
@@ -271,7 +270,7 @@
       "artist":"Krishna Tejasvi, Sireesha Bhagavatula, Ramajogayya Sastry, G. V. Prakash Kumar",
       "album":"Amaran",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Vendiminnu%20Neevanta.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6A75PkqKusQt1iNsiM1aOdeUDadLDgXshlQ&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Vendiminnu%20Neevanta.jpg"
     },
     {
       "id":35,
@@ -279,7 +278,7 @@
       "artist":"Mahalingam",
       "album":"Pushpa 2",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2005%20-%20Gango%20Renuka%20Thalli.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKzKBb3WsySPWny-fXlNWfFy4WmwDoabQPg&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/Gango%20Renuka%20Thalli.jpg"
     },
     {
       "id":36,
@@ -287,7 +286,7 @@
       "artist":"Indravathi Chauhan",
       "album":"Pushpa: The Rise",
       "audiourl":"https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2005%20-%20Oo%20Antava..Oo%20Oo%20Antava.mp3",
-      "coverimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KJaRzfx_7Nc5Eak2xss2bAy9_xc6bAhrKA&s"
+      "coverimage":"https://raw.githubusercontent.com/nikki9381/SPOTIFY-PROJECT/refs/heads/main/oo%20antava..oo%20oo%20antava.jpg"
     }
 
   ]
